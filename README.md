@@ -1,5 +1,3 @@
-# ES6-Spread-Operator-Practice
-
 # To-Do List App
 
 This is a simple React app that allows users to manage a to-do list. Users can add tasks, mark them as completed, and remove them. The app demonstrates the use of React hooks like `useState` to manage state for input text and list items.
